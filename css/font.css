@@ -1,0 +1,21 @@
+@font-face {
+    font-family: Kanit;
+    src: url('../font/Kanit\ Regular.ttf');
+}
+
+@font-face {
+    font-family: Kanit;
+    font-weight: bold;
+    src: url('../font/Kanit\ Bold.ttf');
+}
+
+@font-face {
+    font-family: Kanit;
+    font-style: italic;
+    src: url('../font/Kanit\ Italic.ttf');
+}
+
+
+body {
+    font-family: Kanit !important;
+}
