@@ -2,6 +2,8 @@
 
 Developed in 2023 as a final project for the CP151 Web Programming course. This web-based application is a comprehensive management system for a pet clinic, featuring dual-sided interfaces for both pet owners (Clients) and clinic personnel (Admin/Staff).
 
+![Example](petcare_example.png)
+
 ## 🌟 Key Features
 
 **Client Side**
@@ -71,3 +73,4 @@ $dbname = "petcare";
 |--------------------|------------------|----------|
 | Admin              | admin@gmail.com  | admin    |
 | Veterinarian (Vet) | vet@gmail.com    | vet      |
+
